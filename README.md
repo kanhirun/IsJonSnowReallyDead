@@ -32,3 +32,4 @@ $ bundle exec rails server  # open the browser at www.localhost:5000
 2. Has it been answered on Stack Overflow? [link](www.stackoverflow.com)
 3. Or the API guides? [link](http://guides.rubyonrails.org/)
 4. (Link to Startup Institute network / email / etc.)
+5. Screencast
